@@ -1,10 +1,7 @@
 *.pyc
-*.py~
-*.py#
 
-*.pkl
+# *.pkl
 output/*
-train_log/*
 *.mp4
 
 test/
